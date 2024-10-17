@@ -7,7 +7,7 @@ public class Sum{
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println("the sum of two numbers ="+(a+b));
+        System.out.println("the sum of two numbers ="+(a+b)+"from git");
 
         sc.close();
     }
